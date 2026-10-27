@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 360" width="980" height="360" role="img" aria-label="Terminal con resumen profesional">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4C1D95"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+<linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+<linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1250"/><stop offset=".6" stop-color="#140F2E"/><stop offset="1" stop-color="#0E0A22"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="980" height="360" rx="14" fill="#0B0820" stroke="#3B2A7A"/>
+<rect width="980" height="38" rx="14" fill="#1A1240"/><rect y="24" width="980" height="14" fill="#1A1240"/>
+<circle cx="24" cy="19" r="6" fill="#FF5F57"/>
+<circle cx="46" cy="19" r="6" fill="#FEBC2E"/>
+<circle cx="68" cy="19" r="6" fill="#28C840"/>
+<text x="490.0" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#A89CC8">yerzyd — ~ — zsh — 120×26</text>
+<text x="24" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#A78BFA" font-weight="700" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.027;0.028;0.97;1" dur="22.0s" repeatCount="indefinite"/>Yerzyd ~ ❯</text>
+<clipPath id="c70"><rect x="123.0" y="52" width="0" height="26"><animate attributeName="width" values="0;0;54;54;0" keyTimes="0;0.027;0.044;0.97;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="123.0" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#EDE9FE" clip-path="url(#c70)" textLength="54" lengthAdjust="spacing">whoami</text>
+<text x="24" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#C084FC" opacity="0" textLength="657" lengthAdjust="spacing"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.066;0.080;0.97;1" dur="22.0s" repeatCount="indefinite"/>Yerzyd David Alcon Bustos · Ingeniero Geógrafo · Desarrollador Full-Stack</text>
+<text x="24" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#A78BFA" font-weight="700" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.107;0.108;0.97;1" dur="22.0s" repeatCount="indefinite"/>Yerzyd ~ ❯</text>
+<clipPath id="c130"><rect x="123.0" y="112" width="0" height="26"><animate attributeName="width" values="0;0;198;198;0" keyTimes="0;0.107;0.167;0.97;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="123.0" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#EDE9FE" clip-path="url(#c130)" textLength="198" lengthAdjust="spacing">cat especialidades.txt</text>
+<text x="24" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#C084FC" opacity="0" textLength="675" lengthAdjust="spacing"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.190;0.204;0.97;1" dur="22.0s" repeatCount="indefinite"/>Topografía · Geodesia · Catastro · Fotogrametría con drones · Teledetección</text>
+<text x="24" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#A78BFA" font-weight="700" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.231;0.231;0.97;1" dur="22.0s" repeatCount="indefinite"/>Yerzyd ~ ❯</text>
+<clipPath id="c190"><rect x="123.0" y="172" width="0" height="26"><animate attributeName="width" values="0;0;117;117;0" keyTimes="0;0.231;0.266;0.97;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="123.0" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#EDE9FE" clip-path="url(#c190)" textLength="117" lengthAdjust="spacing">cat stack.txt</text>
+<text x="24" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#C084FC" opacity="0" textLength="774" lengthAdjust="spacing"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.289;0.303;0.97;1" dur="22.0s" repeatCount="indefinite"/>Python · R · TypeScript · PostgreSQL · QGIS · ArcGIS Pro · Pix4D · Google Earth Engine</text>
+<text x="24" y="250" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#A78BFA" font-weight="700" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.330;0.330;0.97;1" dur="22.0s" repeatCount="indefinite"/>Yerzyd ~ ❯</text>
+<clipPath id="c250"><rect x="123.0" y="232" width="0" height="26"><animate attributeName="width" values="0;0;117;117;0" keyTimes="0;0.330;0.365;0.97;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="123.0" y="250" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#EDE9FE" clip-path="url(#c250)" textLength="117" lengthAdjust="spacing">ls proyectos/</text>
+<text x="24" y="280" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#C084FC" opacity="0" textLength="711" lengthAdjust="spacing"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.388;0.402;0.97;1" dur="22.0s" repeatCount="indefinite"/>geo-ide  geo-import-raster  geo-sait  geo-hidro  geo-planimetria  yer-bioverify</text>
+<text x="24" y="310" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#A78BFA" font-weight="700">Yerzyd ~ ❯</text>
+<rect x="123.0" y="296" width="9" height="19" fill="#E879F9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
