@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 96" width="560" height="96" role="img" aria-label="Solicita tu cotización">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4C1D95"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+<linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+<linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1250"/><stop offset=".6" stop-color="#140F2E"/><stop offset="1" stop-color="#0E0A22"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<clipPath id="pill"><rect x="8" y="8" width="544" height="80" rx="40"/></clipPath>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<rect x="8" y="8" width="544" height="80" rx="40" fill="url(#g)" filter="url(#glow)"><animate attributeName="opacity" values=".92;1;.92" dur="2.4s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#pill)"><rect x="-140" y="0" width="120" height="96" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-160;640" dur="3.2s" repeatCount="indefinite"/></rect></g>
+<text x="280" y="58" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#fff">Solicita tu cotización  →</text></svg>

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="Formación por áreas profesionales">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4C1D95"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+<linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+<linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1250"/><stop offset=".6" stop-color="#140F2E"/><stop offset="1" stop-color="#0E0A22"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="600" rx="18" fill="#1B1342" stroke="#3B2A7A"/>
+<text x="40" y="50" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#EDE9FE">Formación por áreas profesionales</text>
+<text x="40" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#A89CC8">78 hitos según mi CV · 3 títulos · 4 maestrías · 11 diplomados · 26 cursos · 16 seminarios · 18 distinciones</text>
+<polygon points="335.0,300.0 365.3,317.5 365.3,352.5 335.0,370.0 304.7,352.5 304.7,317.5" fill="none" stroke="#3B2A7A" stroke-width="1"/>
+<text x="339" y="312" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#A89CC8">5</text>
+<polygon points="335.0,265.0 395.6,300.0 395.6,370.0 335.0,405.0 274.4,370.0 274.4,300.0" fill="none" stroke="#3B2A7A" stroke-width="1"/>
+<text x="339" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#A89CC8">10</text>
+<polygon points="335.0,230.0 425.9,282.5 425.9,387.5 335.0,440.0 244.1,387.5 244.1,282.5" fill="none" stroke="#3B2A7A" stroke-width="1"/>
+<text x="339" y="242" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#A89CC8">15</text>
+<polygon points="335.0,195.0 456.2,265.0 456.2,405.0 335.0,475.0 213.8,405.0 213.8,265.0" fill="none" stroke="#3B2A7A" stroke-width="1"/>
+<text x="339" y="207" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#A89CC8">20</text>
+<line x1="335" y1="335" x2="335.0" y2="195.0" stroke="#3B2A7A"/>
+<line x1="335" y1="335" x2="456.2" y2="265.0" stroke="#3B2A7A"/>
+<line x1="335" y1="335" x2="456.2" y2="405.0" stroke="#3B2A7A"/>
+<line x1="335" y1="335" x2="335.0" y2="475.0" stroke="#3B2A7A"/>
+<line x1="335" y1="335" x2="213.8" y2="405.0" stroke="#3B2A7A"/>
+<line x1="335" y1="335" x2="213.8" y2="265.0" stroke="#3B2A7A"/>
+<g transform="translate(335,335)"><g><animateTransform attributeName="transform" type="scale" from="0" to="1" dur="1.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+<polygon points="0.0,-112.0 48.5,-28.0 48.5,28.0 0.0,56.0 -109.1,63.0 -121.2,-70.0" fill="#7C3AED" fill-opacity=".38" stroke="#C084FC" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="0.0" cy="-112.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+<circle cx="48.5" cy="-28.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+<circle cx="48.5" cy="28.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+<circle cx="0.0" cy="56.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+<circle cx="-109.1" cy="63.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+<circle cx="-121.2" cy="-70.0" r="5" fill="#E879F9" filter="url(#glow)"/>
+</g></g>
+<text x="335" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Geomática y territorio</text>
+<text x="335" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">16 hitos</text>
+<text x="478" y="252" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Tecnología y datos</text>
+<text x="478" y="268" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">8 hitos</text>
+<text x="478" y="418" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Hidrología e hidráulica</text>
+<text x="478" y="434" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">8 hitos</text>
+<text x="335" y="500" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Empresarial y marketing</text>
+<text x="335" y="516" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">8 hitos</text>
+<text x="192" y="418" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Gestión pública y legal</text>
+<text x="192" y="434" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">18 hitos</text>
+<text x="192" y="252" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#EDE9FE">Militar e institucional</text>
+<text x="192" y="268" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C084FC">20 hitos</text>
+<text x="680" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#EDE9FE">Composición de cada área</text>
+<text x="680" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Geomática y territorio</text>
+<rect x="680" y="172" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="172" width="0" height="18" fill="#7DD3FC"><animate attributeName="width" from="0" to="22.0" begin="0.0s" dur="1s" fill="freeze"/></rect>
+<text x="691.0" y="185.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="703.5" y="172" width="0" height="18" fill="#E9D5FF"><animate attributeName="width" from="0" to="22.0" begin="0.12s" dur="1s" fill="freeze"/></rect>
+<text x="714.5" y="185.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="727.0" y="172" width="0" height="18" fill="#7C3AED"><animate attributeName="width" from="0" to="45.5" begin="0.24s" dur="1s" fill="freeze"/></rect>
+<text x="749.8" y="185.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.1400000000000001s" dur="0.4s" fill="freeze"/>2</text>
+<rect x="774.0" y="172" width="0" height="18" fill="#A78BFA"><animate attributeName="width" from="0" to="69.0" begin="0.36s" dur="1s" fill="freeze"/></rect>
+<text x="808.5" y="185.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.4s" fill="freeze"/>3</text>
+<rect x="844.5" y="172" width="0" height="18" fill="#E879F9"><animate attributeName="width" from="0" to="210.0" begin="0.48s" dur="1s" fill="freeze"/></rect>
+<text x="949.5" y="185.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.4s" fill="freeze"/>9</text>
+<text x="680" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Tecnología y datos</text>
+<rect x="680" y="230" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="230" width="0" height="18" fill="#E9D5FF"><animate attributeName="width" from="0" to="22.0" begin="0.42s" dur="1s" fill="freeze"/></rect>
+<text x="691.0" y="243.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="703.5" y="230" width="0" height="18" fill="#7C3AED"><animate attributeName="width" from="0" to="92.5" begin="0.54s" dur="1s" fill="freeze"/></rect>
+<text x="749.8" y="243.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/>4</text>
+<rect x="797.5" y="230" width="0" height="18" fill="#E879F9"><animate attributeName="width" from="0" to="69.0" begin="0.78s" dur="1s" fill="freeze"/></rect>
+<text x="832.0" y="243.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.6800000000000002s" dur="0.4s" fill="freeze"/>3</text>
+<text x="680" y="280" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Hidrología e hidráulica</text>
+<rect x="680" y="288" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="288" width="0" height="18" fill="#E9D5FF"><animate attributeName="width" from="0" to="22.0" begin="0.72s" dur="1s" fill="freeze"/></rect>
+<text x="691.0" y="301.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="703.5" y="288" width="0" height="18" fill="#7C3AED"><animate attributeName="width" from="0" to="22.0" begin="0.84s" dur="1s" fill="freeze"/></rect>
+<text x="714.5" y="301.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="727.0" y="288" width="0" height="18" fill="#A78BFA"><animate attributeName="width" from="0" to="139.5" begin="0.96s" dur="1s" fill="freeze"/></rect>
+<text x="796.8" y="301.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.8599999999999999s" dur="0.4s" fill="freeze"/>6</text>
+<text x="680" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Empresarial y marketing</text>
+<rect x="680" y="346" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="346" width="0" height="18" fill="#7DD3FC"><animate attributeName="width" from="0" to="22.0" begin="0.8999999999999999s" dur="1s" fill="freeze"/></rect>
+<text x="691.0" y="359.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.7999999999999998s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="703.5" y="346" width="0" height="18" fill="#E9D5FF"><animate attributeName="width" from="0" to="22.0" begin="1.02s" dur="1s" fill="freeze"/></rect>
+<text x="714.5" y="359.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="727.0" y="346" width="0" height="18" fill="#7C3AED"><animate attributeName="width" from="0" to="92.5" begin="1.14s" dur="1s" fill="freeze"/></rect>
+<text x="773.3" y="359.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.04s" dur="0.4s" fill="freeze"/>4</text>
+<rect x="821.0" y="346" width="0" height="18" fill="#A78BFA"><animate attributeName="width" from="0" to="22.0" begin="1.2599999999999998s" dur="1s" fill="freeze"/></rect>
+<text x="832.0" y="359.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.1599999999999997s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="844.5" y="346" width="0" height="18" fill="#E879F9"><animate attributeName="width" from="0" to="22.0" begin="1.38s" dur="1s" fill="freeze"/></rect>
+<text x="855.5" y="359.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.28s" dur="0.4s" fill="freeze"/>1</text>
+<text x="680" y="396" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Gestión pública y legal</text>
+<rect x="680" y="404" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="404" width="0" height="18" fill="#A78BFA"><animate attributeName="width" from="0" to="374.5" begin="1.56s" dur="1s" fill="freeze"/></rect>
+<text x="867.3" y="417.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.46s" dur="0.4s" fill="freeze"/>16</text>
+<rect x="1056.0" y="404" width="0" height="18" fill="#E879F9"><animate attributeName="width" from="0" to="45.5" begin="1.68s" dur="1s" fill="freeze"/></rect>
+<text x="1078.8" y="417.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.58s" dur="0.4s" fill="freeze"/>2</text>
+<text x="680" y="454" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#EDE9FE">Militar e institucional</text>
+<rect x="680" y="462" width="470" height="18" rx="9" fill="#2A1F5E"/>
+<rect x="680.0" y="462" width="0" height="18" fill="#7DD3FC"><animate attributeName="width" from="0" to="22.0" begin="1.5s" dur="1s" fill="freeze"/></rect>
+<text x="691.0" y="475.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="703.5" y="462" width="0" height="18" fill="#E879F9"><animate attributeName="width" from="0" to="22.0" begin="1.98s" dur="1s" fill="freeze"/></rect>
+<text x="714.5" y="475.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/>1</text>
+<rect x="727.0" y="462" width="0" height="18" fill="#FB923C"><animate attributeName="width" from="0" to="421.5" begin="2.1s" dur="1s" fill="freeze"/></rect>
+<text x="937.8" y="475.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#140F2E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.4s" fill="freeze"/>18</text>
+<rect x="680" y="510" width="14" height="14" rx="4" fill="#7DD3FC"/><text x="702" y="522" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Títulos <tspan fill="#A89CC8">(3)</tspan></text>
+<rect x="850" y="510" width="14" height="14" rx="4" fill="#E9D5FF"/><text x="872" y="522" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Maestrías <tspan fill="#A89CC8">(4)</tspan></text>
+<rect x="1020" y="510" width="14" height="14" rx="4" fill="#7C3AED"/><text x="1042" y="522" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Diplomados <tspan fill="#A89CC8">(11)</tspan></text>
+<rect x="680" y="536" width="14" height="14" rx="4" fill="#A78BFA"/><text x="702" y="548" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Cursos <tspan fill="#A89CC8">(26)</tspan></text>
+<rect x="850" y="536" width="14" height="14" rx="4" fill="#E879F9"/><text x="872" y="548" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Seminarios <tspan fill="#A89CC8">(16)</tspan></text>
+<rect x="1020" y="536" width="14" height="14" rx="4" fill="#FB923C"/><text x="1042" y="548" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDE9FE">Distinciones <tspan fill="#A89CC8">(18)</tspan></text>
+<text x="40" y="578" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#A89CC8">Agrupación de áreas hecha a partir de los títulos de cada formación; las distinciones se cuentan en el área militar e institucional.</text>
+</svg>
