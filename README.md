@@ -1,219 +1,101 @@
-# Hello my name is Yerzyd👋
+<!--
+  README de perfil · Yerzyd
+  Paleta tomada de tu terminal: violeta #4C1D95 → #7C3AED → #A78BFA → #C084FC, fondo #140F2E
+  Busca los comentarios "EDITA" para personalizar textos, correo y descripciones.
+-->
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=230&section=header&text=Yerzyd%20Alcon&fontSize=62&fontColor=F5F3FF&fontAlignY=38&animation=fadeIn&desc=Desarrollador%20Full-Stack%20%C2%B7%20Datos%20%26%20Soluciones%20Geoespaciales&descSize=19&descAlignY=60&descColor=EDE9FE" alt="Yerzyd Alcon" />
+</p>
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-## My tech stack
-
-<p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+<p align="center">
+  <!-- EDITA: cambia las líneas separadas por ; -->
+  <a href="https://yerzyd.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=720&height=40&lines=Construyo+software+que+resuelve+problemas+reales;TypeScript+%C2%B7+Python+%C2%B7+QGIS+%C2%B7+Web;Soluciones+Visionarias+Yerzyd+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
   </a>
 </p>
 
-
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/yerzyd-david-alcon-bustos-38a659303/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Yerzyd" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/yerzyd/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Yerzyd" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/yerzyd" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Yerzyd" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~0169529a9dd7f21cb5" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Yerzyd" height="30" width="auto" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Santa%20Cruz%20de%20la%20Sierra-Bolivia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Disponible%20para-proyectos-A78BFA?style=for-the-badge&logoColor=white" alt="Disponible" />
+  <a href="https://yerzyd.com"><img src="https://img.shields.io/badge/yerzyd.com-4C1D95?style=for-the-badge&logo=safari&logoColor=white" alt="Sitio web" /></a>
 </p>
 
------
+---
+
+## `~/sobre-mi`
+
+```zsh
+yerzyd@mac ~ ❯ whoami
+Yerzyd Alcon · Desarrollador Full-Stack · Soluciones Visionarias Yerzyd
+
+yerzyd@mac ~ ❯ cat enfoque.txt
+→ Aplicaciones web y herramientas de escritorio
+→ Datos, análisis y automatización
+→ Herramientas geoespaciales (QGIS, raster, hidrografía, planimetría)
+
+yerzyd@mac ~ ❯ ▌
+```
+<!-- EDITA: ajusta las tres líneas de "enfoque.txt" a lo que realmente haces -->
+
+---
+
+## `~/stack`
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,py,bash,git,github,linux,apple&theme=dark" alt="Tecnologías" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/QGIS-7C3AED?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/macOS-4C1D95?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/CachyOS-A78BFA?style=for-the-badge&logo=archlinux&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/Windows-6D28D9?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+<!-- EDITA: deja solo lo que usas de verdad. Íconos disponibles: https://skillicons.dev -->
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yerzyd Alcon</h1></summary>
-  </ul>
-</div>
+## `~/proyectos`
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
+<!-- EDITA: cambia "repo=" por tus repos públicos. Los privados no se muestran. -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+  <a href="https://github.com/Yerzyd/geo-ide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=geo-ide&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="geo-ide" /></a>
+  <a href="https://github.com/Yerzyd/geo-import-raster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=geo-import-raster&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="geo-import-raster" /></a>
+</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+  <a href="https://github.com/Yerzyd/geo-sait"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=geo-sait&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="geo-sait" /></a>
+  <a href="https://github.com/Yerzyd/geo-hidro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=geo-hidro&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="geo-hidro" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Yerzyd/geo-planimetria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=geo-planimetria&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="geo-planimetria" /></a>
+  <a href="https://github.com/Yerzyd/yer-bioverify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzyd&repo=yer-bioverify&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="yer-bioverify" /></a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## `~/estadisticas`
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yerzyd&show_icons=true&hide_rank=true&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&icon_color=A78BFA&border_color=4C1D95" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yerzyd&layout=compact&langs_count=6&bg_color=140F2E&title_color=C084FC&text_color=DDD6FE&border_color=4C1D95" alt="Lenguajes más usados" />
+</p>
+<!-- Si las tarjetas tardan o fallan, es el servicio público de Vercel; recarga más tarde o bórralas. -->
+
+---
+
+## `~/contacto`
+
+<p align="center">
+  <!-- EDITA: verifica que cada enlace sea el tuyo y borra los que no uses -->
+  <a href="https://yerzyd.com"><img src="https://img.shields.io/badge/Web-yerzyd.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Web" /></a>
+  <a href="https://www.linkedin.com/in/yerzyd-david-alcon-bustos-38a659303/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yerzyd@gmail.com"><img src="https://img.shields.io/badge/Correo-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="https://www.upwork.com/freelancers/~0169529a9dd7f21cb5"><img src="https://img.shields.io/badge/Upwork-6D28D9?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <br/>
+  <a href="https://www.instagram.com/yerzyd/"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@yerzyd"><img src="https://img.shields.io/badge/TikTok-4C1D95?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.hackerrank.com/profile/yerzyd"><img src="https://img.shields.io/badge/HackerRank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-Last Edited on: 10/6/2024
-By Yerzyd Alcon
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:7C3AED,100:4C1D95&height=120&section=footer" alt="" />
+</p>
