@@ -82,7 +82,7 @@ Con mi empresa, **Soluciones Visionarias Yerzyd**, convierto datos geoespaciales
 <div align="center">
   <img src="./assets/timeline.svg" alt="Línea de tiempo 2006-2025" width="100%" />
   <br/>
-  <img src="./assets/areas.svg" alt="Proyectos que he liderado: cartoclasificación, catastro, zonificación, drones, delimitación y riego" width="100%" />
+  <img src="./assets/areas.svg" alt="Proyectos que he liderado: cartoclasificación, catastro, zonificación, drones, delimitación de Unidades Territoriales y riego" width="100%" />
 </div>
 
 <br/>
